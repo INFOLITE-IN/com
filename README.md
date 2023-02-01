@@ -12,3 +12,6 @@ We have created some responsive html.CSS website templates for you to use. You a
 
 # Created 
 - [kaviyarasan](https://GitHub.com/kaviyarasan-1997)
+
+<a href="https://t.me/infotalkies"><img src="https://img.shields.io/badge/TELEGRAM-CHANNEL%20-blue.svg?style=square&logo=Telegram"></a> 
+
