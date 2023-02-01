@@ -1,4 +1,4 @@
-# Social-Icon
+# Social Icon
 
 <a href="https://kaviyarasan-1997.github.io/social-icon/"><Img src="https://github.com/KAVIYARASAN-1997/social-icon/blob/main/Etc/VID_20230201_102821_020.gif"></a>
 
