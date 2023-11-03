@@ -54,18 +54,6 @@
     transform: rotate(0deg) skewX(-45deg);
 }
 
-.social_icons li a::after {
-    content: "";
-    position: absolute;
-    bottom: -20px;
-    left: -10px;
-    height: 20px;
-    width: 100%;
-    background: #e5e5e5;
-    transition: 0.5s;
-    transform: rotate(0deg) skewX(-45deg);
-}
-
 .social_icons li a:hover {
     transform: perspective(1000px) rotate(-30deg) skew(25deg) translate(20px, -20px);
     box-shadow: -50px 50px 50px rgba(0, 0, 0, 0.5);
@@ -147,5 +135,5 @@
     background-color: #1984bc;
 }
 .social_icons li:hover:nth-child(6) a::after {
-    background-color: #193dc;
+    background-color: #1984bc;
 }
