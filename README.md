@@ -9,7 +9,7 @@ We have created some responsive html.CSS website templates for you to use. You a
 
 # Click here 
 
-[![TIMER ⏳](https://img.shields.io/badge/OCIAL-ICON-003245?style=flat&labelColor=yellow&logoColor=red&square&logo=skype)](https://kaviyarasan-1997.github.io/social-icon/)&nbsp;
+[![TIMER ⏳](https://img.shields.io/badge/OCIAL-ICON-003245?style=flat&labelColor=yellow&logoColor=red&square&logo=skype)](https://infolite-in.github.io/social-icon/)&nbsp;
 
 # Created 
 - [kaviyarasan](https://GitHub.com/kaviyarasan-1997)
