@@ -134,6 +134,16 @@
 .social_icons li:hover:nth-child(6) a::after {
     background-color: #1984bc;
 }
-.social_icons li:hover:nth-child(6) a::after {
+
+.social_icons li:hover:nth-child(7) a {
+    background-color: #0087b5;
+}
+
+.social_icons li:hover:nth-child(7) a::before {
+    background-color: #005f90;
+}
+
+.social_icons li:hover:nth-child(7) a::after {
     background-color: #1984bc;
 }
+
