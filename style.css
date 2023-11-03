@@ -147,11 +147,11 @@
     background-color: #66b4ef;
 }
 .social_icons li:hover:nth-child(8) a {
-    background-color: #008000;
+    background-color: #00ff00;
 }
 
 .social_icons li:hover:nth-child(8) a::before {
-    background-color: #00ff00;
+    background-color: #008000;
 }
 
 .social_icons li:hover:nth-child(8) a::after {
